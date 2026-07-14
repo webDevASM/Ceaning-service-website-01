@@ -1,0 +1,205 @@
+body,
+body.boxed-wrapper .page-wrapper,
+.step-one,
+.main-menu__wrapper {
+    background-color: #01013e;
+}
+
+
+
+.services-one__single-inner:before,
+.experience-one__single,
+.services-one__single,
+.team-one__single {
+    background-color: #01194c;
+}
+
+
+.experience-one,
+.services-one,
+.team-one,
+.faq-one,
+.appointment-one {
+    background-color: #010130;
+}
+
+.experience-one__content-title a,
+.section-title__tagline,
+.section-title__title,
+.about-one__bottom-left h5,
+.why-choose-one__list li .content h4,
+.main-menu .main-menu__list>li>a,
+.stricky-header .main-menu__list>li>a,
+.main-menu__number-box a,
+.about-one__points li h4,
+.why-choose-one__points li .content h3 a,
+.services-one__title a,
+.location-one__content-title-box h4,
+.location-one__content-title-box p,
+.location-one__content-details-title,
+.location-one__content-details-list li p a,
+.pricing-one__price,
+.process-one__title,
+.faq-one__left-content-list li i,
+.faq-one__left-content-list li h4,
+.faq-one__right-content .faq-one-accrodion .accrodion-title h4,
+.appointment-one__address-icon span,
+.appointment-one__address-title,
+.appointment-one__address-number a,
+.appointment-one__address-number,
+.appointment-one__title,
+.blog-two__meta li a,
+.blog-two__meta li a span,
+.blog-one__title a,
+.blog-one__btn,
+.main-menu__search,
+.main-menu__cart {
+    color: var(--Coreclean-white);
+}
+
+.experience-one__text,
+.about-one__text,
+.about-one__bottom-left p,
+.why-choose-one__list li .content p,
+.testimonial-one__sec-title-text,
+.why-choose-one__text,
+.why-choose-one__points li .content p,
+.services-one__text,
+.location-one__content-details-list li p,
+.pricing-one__price-list li,
+.process-one__text,
+.faq-one__left-content-text p,
+.faq-one__right-content .faq-one-accrodion .accrodion-content p {
+    color: #ced7e2;
+}
+
+.experience-one__single:before {
+    background-color: var(--Coreclean-base);
+}
+
+.experience-one__single:hover .experience-one__icon span {
+    color: var(--Coreclean-white);
+}
+
+.experience-one__content-title a:hover {
+    color: var(--Coreclean-base);
+}
+
+.services-one__carousel.owl-theme .owl-nav .owl-next:hover,
+.services-one__carousel.owl-theme .owl-nav .owl-prev:hover {
+    color: var(--Coreclean-white);
+    background-color: #00131d;
+}
+
+.testimonial-one__carousel.owl-theme .owl-nav .owl-prev,
+.testimonial-one__carousel.owl-theme .owl-nav .owl-next {
+    color: var(--Coreclean-white);
+}
+
+.thm-btn::before {
+    background-color: var(--Coreclean-white);
+}
+
+.thm-btn:hover {
+    color: var(--Coreclean-base);
+}
+
+.services-one__carousel.owl-theme .owl-nav .owl-next:hover,
+.services-one__carousel.owl-theme .owl-nav .owl-prev:hover {
+    color: var(--Coreclean-base);
+    background-color: var(--Coreclean-white);
+}
+
+.location-one__map-img img {
+    filter: invert(1);
+}
+
+.location-one__content-box,
+.pricing-one__single,
+.faq-one__right-content .faq-one-accrodion .accrodion,
+.faq-one__right-content .faq-one-accrodion .accrodion-content,
+.appointment-one__right-content,
+.blog-one__single {
+    background-color: #0f0f42;
+}
+
+.pricing-one__single:hover .pricing-one__btn {
+    color: var(--Coreclean-black);
+}
+
+.faq-one__right-content .faq-one-accrodion .accrodion.active {
+    border: 1px solid rgba(var(--Coreclean-white-rgb), .10);
+    background-color: #0f0f42;
+}
+
+.faq-one__right-content .faq-one-accrodion .accrodion.active .accrodion-title {
+    border-bottom: 1px solid rgba(var(--Coreclean-white-rgb), .10);
+}
+
+.appointment-one__bg {
+    opacity: .02;
+}
+
+
+.appointment-one__address-content {
+    background-color: #01194c;
+}
+
+.appointment-one__input-box input[type="text"],
+.appointment-one__input-box input[type="email"],
+.appointment-one__input-box textarea {
+    background-color: rgba(var(--Coreclean-white-rgb), .10);
+    color: var(--Coreclean-white);
+    opacity: 1;
+}
+
+.blog-one__img:before {
+    background: #0F0F42;
+    background: linear-gradient(180deg, rgba(15, 15, 66, 0) 15%, rgba(15, 18, 66, 0.4) 50%, rgba(15, 21, 66, 0.9) 85%);
+}
+
+.main-menu__search:hover {
+    color: var(--Coreclean-white);
+}
+
+.main-menu__cart:hover {
+    color: var(--Coreclean-white);
+}
+
+.icon-dots-menu--one,
+.icon-dots-menu--two,
+.icon-dots-menu--three {
+    background-color: var(--Coreclean-white);
+}
+
+.main-menu .mobile-nav__toggler {
+    color: var(--Coreclean-white);
+}
+
+.main-menu .mobile-nav__toggler:hover {
+    color: var(--Coreclean-base);
+}
+
+.main-menu__search:hover {
+    color: var(--Coreclean-base);
+}
+
+.main-menu__cart:hover {
+    color: var(--Coreclean-base);
+}
+
+.search-popup__content .thm-btn:hover:before {
+    background-color: var(--Coreclean-black);
+}
+
+.process-one {
+    background-color: var(--Coreclean-black);
+}
+
+
+
+
+
+
+
+/*  */
